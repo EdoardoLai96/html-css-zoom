@@ -283,7 +283,7 @@
     display: block;
 }
 
-
+/* BORDERDS  */
 
 .border-visible{
     border: solid 1px rgb(184, 182, 182);
@@ -318,6 +318,13 @@
 .thick-border{
     border:  10px solid #D5E8CF;
 }
+
+.border-radius-5px{
+    border-radius: 5px;
+}
+
+/* FINE BORDERDS  */
+
 
 .w15vw{
 width: 15vw;
