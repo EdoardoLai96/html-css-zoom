@@ -8,3 +8,14 @@
 main{
     height: calc(100vh - 100px)
 }
+
+.box-img-text{
+    height: 200px;
+    width: 400px;
+}
+
+.box-text{
+    height: 35px;
+    width: 100px;
+    align-self: flex-end;
+}

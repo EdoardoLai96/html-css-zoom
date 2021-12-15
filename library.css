@@ -44,10 +44,6 @@
     background-color: #000;
 }
 
-.bg-white{
-    background-color: #fff;
-}
-
 .color-lightblue{
     color: #0160FF;
 }
@@ -71,6 +67,19 @@
 }
 
 
+
+.opacity-25{
+    opacity: 0.25;
+}
+
+.opacity-50{
+    opacity: 0.5;
+}
+
+.opacity-75{
+    opacity: 0.75;
+}
+
 .width-50xc{
     width: 50%;
 }
@@ -79,6 +88,7 @@
     width: 80%;
 }
 
+/* display  */
 
 .inline-block{
     display: inline-block;
@@ -87,6 +97,17 @@
 .none{
     display: none;
 }
+
+.flex{
+    display: flex;
+}
+
+.flex-center{
+    justify-content: center;
+    align-items: center;
+}
+
+/* fine display  */
 
 .hover-faq:hover .show{
     display: block;
