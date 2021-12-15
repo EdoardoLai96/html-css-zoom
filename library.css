@@ -40,6 +40,14 @@
     background-color: #fff;
 }
 
+.bg-black{
+    background-color: #000;
+}
+
+.bg-white{
+    background-color: #fff;
+}
+
 .color-lightblue{
     color: #0160FF;
 }
@@ -259,6 +267,10 @@ width: 15vw;
 
 .h15vw{
 height: 15vw;
+}
+
+.h100px{
+height: 100px;
 }
 
 .pos-relative{
