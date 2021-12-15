@@ -72,6 +72,15 @@ footer{
 
 }
 
+.funzione i:hover{ 
+color: rgb(248, 177, 44);
+}
+
+.funzione i{ 
+    cursor: pointer;
+    }
+    
+
 .chevron{
     align-items: center;
     font-size: 16px;
