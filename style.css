@@ -12,18 +12,18 @@ main{
     
 }
 
+.container{
+    justify-content: center;
+}
+
 .top-header{
     height: 50px;
 }
 
-.container{
-    width: 80%;
-    margin: auto;
-}
 
 .box-img-text{
     height: 200px;
-    width: 300px;
+    width: 350px;
     border: 5px solid black;
 }
 
@@ -36,10 +36,11 @@ main{
 
 footer{
     width: 100%;
-    background-color: grey;
+    background-color: #000;
     position: fixed;
     bottom: 0;
     z-index: 9999;
+    justify-content: space-between;
 }
 
 .left-nav{
@@ -60,4 +61,12 @@ footer{
 .chevron{
     align-items: center;
     font-size: 16px;
+}
+
+.end-meeting{
+    background-color: #4A4A4A;
+}
+
+.green-arrow{
+    color: #4BC800;
 }
